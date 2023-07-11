@@ -1,0 +1,268 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+* {
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.main-header {
+    background-color: rgba(229, 84, 115, 0.10);
+
+}
+
+.txtimg {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+
+}
+
+.txtarea {
+    width: 700px;
+    padding-left: 100px;
+
+}
+
+.txtarea h2 {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: mormal;
+    width: 600px;
+
+
+
+}
+
+.txtarea p {
+    color: rgba(39, 39, 39, 0.60);
+    width: 600px;
+
+
+}
+
+.btn-01 {
+    border-radius: 55px;
+    background: #E55473;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 15px;
+    border: none;
+
+}
+
+.imgarea {
+    height: 500px;
+
+}
+
+
+
+.section1 {
+    margin: auto;
+    width: 550px;
+    height: 100px;
+    align-content: center;
+
+}
+
+.section1 h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section1 p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+
+
+
+.flowerbg3 {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.flowerbg3 .flower1 {
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flowerbg3 .flower2 {
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flowerbg3 .flower3 {
+    width: 400px;
+    height: 500px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+.flowerbg3 .flower3txt {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+
+
+
+.btn2fullcontent {
+    margin-top: 100px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.txtimg2 {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.txtarea2 {
+    text-align: center;
+    width: 700px;
+    padding-left: 100px;
+}
+
+.txtarea2 h2 {
+    font-size: 60px;
+    font-weight: 800;
+    line-height: mormal;
+    width: 600px;
+}
+
+.txtarea2 p {
+    color: rgba(39, 39, 39, 0.60);
+    line-height: mormal;
+    width: 600px;
+}
+
+.btn-012 {
+    border-radius: 55px;
+    background: #E55473;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 15px;
+    border: none;
+
+}
+
+.imgarea2 {
+    height: 500px;
+}
+
+
+
+.instagramsec {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.flowerbg302 {
+    display: flex;
+    justify-content: center;
+}
+
+.flowerbg302 .flower102 {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+
+}
+
+.flowerbg302 .flower202 {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+}
+
+.flowerbg302 .flower302 {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+}
+
+.flowerbg302 .flower402 {
+    width: 250px;
+    height: 300px;
+    padding: 10px;
+}
+
+
+
+.coustombgtext {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-top: 90px;
+
+}
+
+.coustombgbtn {
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 70px;
+
+
+}
+
+.coustombgbtn input {
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+.coustombgbtn button {
+    border-radius: 15px;
+    background: #E55473;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 5px 15px;
+    border: none;
+}
+
+.coustombg {
+    background-image: url(flower-asset/Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 900px;
+
+}
+
+
+.footersec .colorchange {
+    color: #E55473;
+}
+.footersec .copyright{
+    color: rgba(255, 255, 255, 0.40);
+
+}
+
+.footersec {
+    background-color: black;
+    color: white;
+    height: 300px;
+    text-align: center;
+    padding-top: 70px;
+}
+
